@@ -1,5 +1,6 @@
 # Summary
 
+<<<<<<< HEAD
 * [前言](SREADME.md)
 * [简介](章节/简介.md)
 * [安装](章节/安装.md)
@@ -22,3 +23,6 @@
 
 
 
+=======
+* [First Chapter](chapter1.md)
+>>>>>>> 2c2a803dadf2cbfed6b3c2b8b34971b54a42e76c
