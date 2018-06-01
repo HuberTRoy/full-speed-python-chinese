@@ -5,6 +5,8 @@
 
 进入GitBook在线阅读：[GitBook](https://hubertroy.gitbooks.io/full-speed-python-chinese/content/)
 
+进入Love2io在线阅读：[Love2io](https://love2.io/@hubertroy/doc/full-speed-python-chinese)
+
 # 目录
 * 简介
 * 安装
@@ -18,5 +20,3 @@
 * 生成器
 * 协程
 * 异步
-
-
